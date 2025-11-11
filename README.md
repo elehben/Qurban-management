@@ -1,5 +1,9 @@
-# Projek Akhir Mata Kuliah Pemrograman Web
+# Website manajemen Qurban
 
-## Menggunakan Bahasa pemrograman PHP
+## Using PHP native
 
-### Website manajemen Qurban
+### Login multi user
+- Admin
+- Warga
+- Pengkurban
+
