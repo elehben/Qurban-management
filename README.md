@@ -6,4 +6,5 @@
 - Admin
 - Warga
 - Pengkurban
-
+### Fitur
+- CRUD
